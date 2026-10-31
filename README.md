@@ -1,2 +1,2 @@
-# Fateriven-Discord-Bot
+# Trash
 Demo pre code that’s outdated 
